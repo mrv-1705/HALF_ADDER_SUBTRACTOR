@@ -34,7 +34,13 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+**Half Adder**
+![half adder](https://github.com/mrv-1705/HALF_ADDER_SUBTRACTOR/assets/114565075/3f917cb0-cd1f-4be0-a7b0-03e27040d5fd)
 
+**Half Subtractor**
+![half subtractor](https://github.com/mrv-1705/HALF_ADDER_SUBTRACTOR/assets/114565075/7a230887-9d69-4a80-b59e-53d3edb3ab37)
+
+ 
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -73,3 +79,4 @@ RegisterNumber: 21223040103
 ![Screenshot 2024-03-19 094032](https://github.com/mrv-1705/HALF_ADDER_SUBTRACTOR/assets/114565075/298f0320-22bd-4273-b5a4-7a558e9e46ba)
 
 **Result:**
+ Thus the program to implement Half Adder and Subtractor is executed successfully.
